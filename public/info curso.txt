@@ -1,0 +1,7 @@
+hard reload = ctrl + shift + r
+
+ESCREVER HTML = ! DA ENTER
+
+quebrar linha = alt + z
+
+parei em 1:52
